@@ -1,0 +1,6 @@
+Add only Advance papers here
+
+1. You should contribute Both papers for respective year if they are not present already.
+2. You can create any folder as per need, for example if there is need of year/topic folder and it not available you can add it with respective structure shown above.
+3. Paper should not have any sort of COPYRIGHT or WATERMARK present.
+4. Your work should be placed in an appropriate folder and should not change the rest of the directory structure.
